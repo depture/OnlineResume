@@ -1,0 +1,27 @@
+# skills section data
+- name: Python
+  percentage: 90
+
+- name: Matlab
+  percentage: 90
+
+- name: R
+  percentage: 90
+
+- name: Javascript | D3JS
+  percentage: 75
+
+- name: Hadoop | Spark | Storm
+  percentage: 70
+
+- name: Knime | Weka
+  percentage: 90
+
+- name: HTML | CSS
+  percentage: 50
+
+- name: Docker
+  percentage: 55
+
+- name: SAS
+  percentage: 70

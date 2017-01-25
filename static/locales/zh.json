@@ -1,0 +1,58 @@
+{
+  "website":{
+    "title": "Hugo Duportet"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Parcours",
+    "link": "Langue"
+  },
+  "about_me":{
+    "about_me": "À propos",
+    "des": "Je suis un jeune data scientist ayant une formation en mathématiques générales, et de l'expérience en data mining, machine learning et langages scientifiques."
+  },
+  "skills":{
+      "my_skills": "Compétences"
+    },
+  "projects":{
+    "my_projects": "Projets",
+    "saplatform": "Research on a new method to modelize the cell cycle of lymphocyte CD4 (white blood cells), espcially the number in each generation, the death rate and proliferation rate... Using differential equations.",
+    "jalpc": "Determine the quality (good, medium, bad) of several wells of a Canadian oil field with their production curves per month using regression and R",
+    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
+    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.",
+    "familycode": "This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.",
+    "leetcode": "LeetCode is a website which has many valuable algorithms questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project."
+  },
+  "career":{
+    "my_career": "Parcours",
+    "master2": "Master - 2",
+    "master2_des": "I chose a specialization in Data Science",
+    "master2_date": "Sep. 2016",
+    "master2_job": "Master Data Science | UCBL - ECL - Liris | Lyon",
+    "internship": "Roxwhale",
+    "internship_des": "At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.",
+    "internship_date": "Jan. 2016 - Sep. 2016",
+    "internship_job": "Internship",
+    "internship_course1": "Méthodes d'optimisation, Traitement du signal, Modèles statistiques : modèle de Markov caché, Champ aléatoire de Markov, etc. Machine learning",
+    "master1": "Master - 1",
+    "master1_des": "In December 2015, I completed my first year of master",
+    "master1_date": "Dec. 2015",
+    "master1_job": "Master in Statistics, Computer Science, and Numerical Analysis",
+    "bachelor": "Bachelor",
+    "bachelor_des": "At December 2014, I obatined my bachelor in mathematics and started my master.",
+    "bachelor_date": "Dec. 2014",
+    "bachelor_job": "Bachelor in Mathematics"
+  },
+
+  "link":{
+    "link": "Langue",
+    "view": "views",
+    "french":{"last_name":"Français", "desc": "Natif"},
+    "english":{"last_name": "Anglais", "desc": "Profesionnel"},
+    "spanish":{"last_name": "Espagnol", "desc": "Limité"}
+  }
+
+}

@@ -1,0 +1,78 @@
+# careers section data
+- name:
+    detail: Master - 2
+    i18n: master2
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master2_des
+  date:
+    detail: Sep. 2016
+    i18n: master2_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master2_job
+  icon: fa-cubes
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: master2_course1
+
+- name:
+    detail: Roxwhale
+    i18n: internship
+  desc:
+    detail: At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
+    i18n: internship_des
+  date:
+    detail: Jan. 2016 - Sep. 2016
+    i18n: internship_date
+  job:
+    detail: Internship
+    i18n: internship_job
+  icon: fa-location-arrow
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: roxwhale_course1
+
+- name:
+    detail: Master - 1
+    i18n: master1
+  desc:
+    detail: ...
+    i18n: master1_des
+  date:
+    detail: Dec. 2015
+    i18n: master1_date
+  job:
+    detail: Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon
+    i18n: master1_job
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: master1_course1
+  # course2:
+  #   detail: hello2
+  #   i18n: master1_course2
+  # course3:
+  #   detail: hello2
+  #   i18n: master1_course2
+  course:
+    - course1:
+        detail: algebre
+        i18n: master1_course1
+      course2:
+        detail: At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
+        i18n: master1_course2
+  icon: fa-university
+
+- name:
+    detail: Bachelor
+    i18n: bachelor
+  desc:
+    detail:  "At December 2014, I obtained my bachelor in mathematics and started my master"
+    i18n: bachelor_des
+  date:
+    detail: Dec. 2014
+    i18n: bachelor_date
+  job:
+    detail: Bachelor in Mathematics and Applications | UCBL | Lyon
+    i18n: bachelor_job
+  icon: fa-book
