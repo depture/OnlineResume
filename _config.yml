@@ -4,8 +4,8 @@
 title: "Hugo Duportet"
 description: "Resume"
 keywords: ""
-url: "https://depture.github.io/"
-baseurl: "OnlineResume/ "
+url: "https://depture.github.io"
+baseurl: "/OnlineResume/"
 
 # author
 author:
