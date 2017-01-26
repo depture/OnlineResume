@@ -1,21 +1,21 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Hugo Duportet"
+title: "Florian Robinet"
 description: "Resume"
 keywords: ""
-url: "https://depture.github.io"
+url: "https://satacroteam.github.io"
 baseurl: "/OnlineResume/"
 
 # author
 author:
-  name: 'Hugo Duportet'
-  first_name: 'Hugo'
-  last_name: 'Duportet'
-  email: 'hugo.duportet@.gmail.com'
+  name: 'Florian Robinet'
+  first_name: 'Florian'
+  last_name: 'Robinet'
+  email: 'florian.robinet.49000@hotmail.fr'
   facebook_username: ''
   github_username: ''
-  avatar: 'static/img/landing/portrait1.png'
+  avatar: 'static/img/landing/photo.png'
   desc: 'I am a data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
   Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
   Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.'

@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Hugo Duportet"
+    "title": "Florian Robinet"
   },
   "nav":{
     "home": "Accueil",
@@ -12,8 +12,7 @@
   },
   "about_me":{
     "about_me": "À propos",
-    "des": "Je suis un jeune data scientist ayant une formation en mathématiques générales, et de l'expérience en data mining, machine learning et langages scientifiques."
-  },
+    "des": "Diplomé d'un master 2 data science faisant suite à une licence de mathématiques appliquées, je m'intéresse particulièrement au Machine Learning, au datamining et aux structures distribuées de type Big Data."},
   "skills":{
       "my_skills": "Compétences"
     },
@@ -32,25 +31,29 @@
     },
   "career":{
     "my_career": "Parcours",
-    "master2": "Master - 2",
+    "master2": "Master 2 Data Science",
     "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
     "master2_date": "Sep. 2016",
     "master2_job": "Master Data Science | Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
     "master2_course1": "Modèles statistiques et régression, Modèle Graphique Probabiliste, Graphe Complexité et Combinatoire, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
-    "internship": "Roxwhale - Stage",
-    "internship_des": "Développement d'un algorithme de géolocalisation en intérieur. J'ai engrangé de l'expérience en python et ai amélioré ma connaissance des modèles graphiques probabilistes.",
-    "internship_date": "Jan. 2016 - Sep. 2016",
-    "internship_job": "Stagiaire",
-    "internship_course1": "Optimisation, Traitement du signal, Modélisation Statistiques, Modèle de Markov Caché, Champs de Markov, Machine learning",
-    "master1": "Master - 1",
+    "internship": "SNCF",
+    "internship_des": "J’ai d’abord travaillé sur la gestion des exceptions à la PSSI (Politique de sécurité des systèmes d’information) au sein de la DSI (Direstion des systèmes d'informations). Ensuite j’ai réalisé un rapport sur les méthodologies d’analyses de risques misent en place à la SNCF. Enfin j’ai effectué une mission de veille en sécurité concernant les infrastructures critiques.",
+    "internship_date": "May 2016 - Aug. 2016",
+    "internship_job": "Auditeur stagiaire en sécurité",
+    "internship_course1": "Méthode MERISE, Analyse de risque, Sécurité informatique",
+    "master1": "Master  1 Econométrie et Statistiques",
     "master1_des": "En décembre 2015, j'ai terminé ma première année de master et ai suivi le mooc de machine learning de l'université de Stanford (Andrew Ng).",
-    "master1_date": "Dec. 2015",
-    "master1_job": "Master Statistique, Informatique et Technique Numérique | UCBL | Lyon",
-    "master1_course1": "Analyse Numérique, Probabilités, Statistiques paramétriques, Séries Temporelles, Systèmes Dynamiques, Processus Stochastiques",
-    "bachelor": "Licence De Mathématiques",
+    "master1_date": "May 2016",
+    "master1_job": "Institut des sciences fiancières et actuarielles de Lyon (ISFA)",
+    "master1_course1": "Analyse Numérique, Probabilités, Statistiques paramétriques, Linux et Sécuité, Cryptographie, Processus Stochastiques, Economie",
+    "bachelor": "Licence de Mathématiques Appliquées",
     "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
-    "bachelor_date": "Dec. 2014",
-    "bachelor_job": "Licence Mathématiques Générales et Applications | UCBL | Lyon"
+    "bachelor_date": "Jun. 2015",
+    "bachelor_job": "Université Claude Bernard Lyon 1 (UCBL) | Lyon",
+    "bachelor": "Licence de Mathématiques Appliquées",
+    "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
+    "bachelor_date": "May 2015",
+    "bachelor_job": "Université Claude Bernard Lyon 1 (UCBL) | Lyon"
   },
 
   "link":{
@@ -62,3 +65,4 @@
   }
 
 }
+
