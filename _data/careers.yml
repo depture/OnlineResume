@@ -31,7 +31,7 @@
   icon: fa-location-arrow
   course1:
     detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
-    i18n: roxwhale_course1
+    i18n: internship_course1
 
 - name:
     detail: Master - 1
