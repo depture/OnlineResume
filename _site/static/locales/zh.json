@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Hugo Duportet"
+    "title": "Florian Robinet"
   },
   "nav":{
     "home": "Accueil",
@@ -12,7 +12,7 @@
   },
   "about_me":{
     "about_me": "À propos",
-    "des": "Je suis un jeune data scientist ayant une formation en mathématiques générales, et de l'expérience en data mining, machine learning et langages scientifiques."
+    "des": "Diplomé d'un master 2 data science faisant suite à une licence de mathématiques appliquées, je m'intéresse particulièrement au Machine Learning, au datamining et aux structures distribuées de type Big Data."
   },
   "skills":{
       "my_skills": "Compétences"
