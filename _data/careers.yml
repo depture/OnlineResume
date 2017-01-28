@@ -30,7 +30,7 @@
     i18n: internship_job
   icon: fa-location-arrow
   course1:
-    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    detail:
     i18n: roxwhale_course1
 
 - name:
@@ -46,7 +46,7 @@
     detail: Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon
     i18n: master1_job
   course1:
-    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    detail: 
     i18n: master1_course1
   # course2:
   #   detail: hello2
