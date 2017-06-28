@@ -32,8 +32,8 @@
     "geoloc": "Implementation of an indoor geolocation algorithm for Roxhwale and analysis of customers' paths.| #Matlab #R #Python ",
     "name_velov": "Velo'v Data Analysis",
     "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark",
-    "name_depp": "Deep learning",
-    "deep_learning": "Geofrey Hinton's dicsiple :), Diving into restricted boltzmann machine recurrent neural network, learning"
+    "name_kaggle": "Kaggle",
+    "kaggle": "Kaggle is a platform for predictive modelling and analytics competitions."
   },
   "career":{
     "my_career": "Career",
