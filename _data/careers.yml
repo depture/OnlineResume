@@ -1,5 +1,22 @@
 # careers section data
 - name:
+    detail: Bioinformatics Consulting
+    i18n: Eligo
+  desc:
+    detail: Working with awesome geneticists phd's to help them decipher genomic data.
+    i18n: Eligo_des
+  date:
+    detail: March 2016
+    i18n: Eligo_date
+  job:
+    detail: Eligo Bioscience | Paris
+    i18n: Eligo_job
+  icon: fa-bar-chart
+  course1:
+    detail: Genetic Engineering, BioPython, Text Mining
+    i18n: Eligo_course1
+
+- name:
     detail: Master - 2
     i18n: master2
   desc:
@@ -31,7 +48,7 @@
   icon: fa-location-arrow
   course1:
     detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
-    i18n: internship_course1
+    i18n: roxwhale_course1
 
 - name:
     detail: Master - 1

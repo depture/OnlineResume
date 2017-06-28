@@ -10,7 +10,7 @@
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
-            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+            <div class="col-sm-6 wow col-sm-offset-6 zoomIn">
                 {% else %}
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
                 {% endif %}
@@ -25,6 +25,9 @@
                   <a target="_blank" style="width: 65px;" href="http://blockbuilder.org/depture/599970eccab372b1dd744cd886387080"  class="btn btn-white btn-xs fork"><i class="fa fa-balance-scale"></i> </a>&emsp;
                   <a target="_blank" style="width: 65px;" href="http://blockbuilder.org/depture/5e16f10102fdff22793931bee0bad6c7" class="btn btn-white btn-xs fork"><i class="fa fa-medkit"></i> </a>&emsp;
                   <a target="_blank" style="width: 65px;" href="https://github.com/depture/Football-odds" class="btn btn-white btn-xs fork"><i class="fa fa-soccer-ball-o"></i> </a>
+                  {% endif %}
+                  {% if project.repo_k %}
+                  <a target="_blank" style="width: 65px;" href="ttps://www.kaggle.com/dupihu"  class="btn btn-white btn-xs fork"><i class="fa fa-bar-chart"></i> </a>&emsp;
                   {% endif %}
               </div>
           </div>

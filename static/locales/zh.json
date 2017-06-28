@@ -32,6 +32,11 @@
     },
   "career":{
     "my_career": "Parcours",
+    "Eligo": "Consultant en Bio-informatique",
+    "Eligo_des": "Mise en place d'algorithmes analysant les séquences d'adn.",
+    "Eligo_date": "Mars 2016",
+    "Eligo_job": "Eligo Bioscience | Paris",
+    "Eligo_course1": "Genetic Engineering, BioPython, Text Mining",
     "master2": "Master - 2",
     "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
     "master2_date": "Sep. 2016",
@@ -48,7 +53,7 @@
     "master1_job": "Master Statistique, Informatique et Technique Numérique | UCBL | Lyon",
     "master1_course1": "Analyse Numérique, Probabilités, Statistiques paramétriques, Séries Temporelles, Systèmes Dynamiques, Processus Stochastiques",
     "bachelor": "Licence De Mathématiques",
-    "bachelor_des": "En décembre 2014, j'ai terminé ma licence de Mathématiques et j'ai commencé mon master en Mathématiques appliquées.",
+    "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
     "bachelor_date": "Dec. 2014",
     "bachelor_job": "Licence Mathématiques Générales et Applications | UCBL | Lyon"
   },
