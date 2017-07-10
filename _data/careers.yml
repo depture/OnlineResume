@@ -80,7 +80,6 @@
         i18n: master1_course2
   icon: fa-university
 
-/*
 - name:
     detail: Bachelor
     i18n: bachelor
@@ -94,4 +93,4 @@
     detail: Bachelor in Mathematics and Applications | UCBL | Lyon
     i18n: bachelor_job
   icon: fa-book
- */
+ 
