@@ -34,21 +34,21 @@
     i18n: master2_course1
 
 - name:
-    detail: Roxwhale
+    detail: Roxwhale - Research Scientist
     i18n: internship
   desc:
-    detail: At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
+    detail: Implementation of an indoor geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
     i18n: internship_des
   date:
-    detail: Jan. 2016 - Sep. 2016
+    detail: Jan. 2016 - Oct. 2016
     i18n: internship_date
   job:
     detail: Internship
     i18n: internship_job
   icon: fa-location-arrow
   course1:
-    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
-    i18n: roxwhale_course1
+    detail: Optimization, Signal Treatment, Statistical Modeling, Kalman Filters, Hidden Markov Models, Markov Random Fields, Machine learning
+    i18n: internship_course1
 
 - name:
     detail: Master - 1
